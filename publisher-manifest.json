@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "066020bda37f3f0015c31be9",
+  "owner": "euqqmbpu",
+  "repo": "page-5e21450ca85a883b0a244e55",
+  "title": "91Merry",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5e21450ca85a883b0a244e55",
+      "a": "91Merry",
+      "b": "稳定全球clash加速器",
+      "entity": "91Merry",
+      "brand": "91Merry",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "943a3e0cbe00e20ab5d230a5f08b52b2083b6a580f2ae6b30b90705667cb44a4",
+      "content": {
+        "primary_entity": "91Merry",
+        "keyword1": "91Merry",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，手机电脑路由器均有对应版本，按订阅链接导入节点。",
+          "AI_CLIENTS_TITLE": "设备与客户端适配",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择套餐，配置好订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适的套餐开始",
+          "AI_DESCRIPTION": "，91Merry 提供基础版、旗舰版与团队版三档方案，基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并带 IPLC 专线，团队版每月 1000GB、支持 20 台设备。不同设备对应不同客户端，手机端可用 Clash 类工具，桌面端可用 Clash 桌面版，路由端可刷入兼容固件。根据使用设备数量和订阅周期选择套餐，按客户端说明导入订阅链接就能使用。",
+          "AI_FEATURES_INTRO": "套餐、设备与周期三个维度决定选择方向。",
+          "AI_FEATURES_TITLE": "选择套餐的关键点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人轻度使用，每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，适合多设备办公与流媒体。",
+          "AI_FEATURE_TEXT_2": "设备数量决定套餐档位，单人手机加电脑选基础版，家庭多终端或小型团队建议旗舰版及以上。",
+          "AI_FEATURE_TEXT_3": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用优先考虑年付方案。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期与年付",
+          "AI_GUIDE_INTRO": "选择服务、核对适配、配置订阅三步完成使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "91Merry 面向需要稳定访问全球网络的用户，提供三档订阅套餐，覆盖个人、家庭与团队场景。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并加入 IPLC 专线；团队版每月 1000GB、支持 20 台设备。选择套餐后按设备安装对应客户端并导入订阅即可。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "多客户端支持常用设备",
+          "AI_HIGHLIGHT_3": "年付方案更经济",
+          "AI_PLANS_INTRO": "套餐对比看流量、设备数与线路差异。基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备并配 VIP 专属节点。年付依次为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求选择基础版、旗舰版或团队版，需要专线加速可考虑旗舰版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与客户端类型，确认常用设备在覆盖范围内。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，完成节点更新后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "91Merry 套餐与客户端",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑轻度使用；若经常看高清视频或多设备同时在线，建议考虑旗舰版的 300GB 与 5 台设备上限。",
+          "AI_FAQ_ANSWER_2": "订阅链接需在对应客户端中导入，不同设备使用的客户端不同，按照客户端帮助文档中的导入步骤操作即可完成线路配置。",
+          "AI_FAQ_ANSWER_3": "可以。在月份之间切换套餐通常按剩余周期折算，具体折算比例与生效时间以购买页面提示或客服说明为准。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供 IPLC 专线节点，针对游戏延迟做了优化；普通节点池则适合网页浏览与视频播放，两者可按使用场景切换。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供企业定制路由与专属客户经理，适合小团队统一管理多个终端。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_3": "可以中途更换套餐吗？",
+          "AI_FAQ_QUESTION_4": "IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_5": "团队版支持多少台设备？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gfioveu.cn",
+    "host": "gfioveu.cn"
+  },
+  "file_hashes": {
+    "index.html": "36f09c37c3f2dab7d704956da966bab2e1963319e91da31905365cfc0108be2f",
+    "sitemap.xml": "2cbb82ad12974f12b14048fb4ad6f5196568f1c29852be575dac2b8472cb2c7b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9dbc53ddb41a42e69cb834a56968d73db1a5f6c28a03eccca3bb3892b0134047",
+    "robots.txt": "0ff61f3e131b13556b86b04dde6e272a799065737f654b2d7cc2e0a1482a57fb",
+    "6afe14d6c172ce6811780beae74b4b51.txt": "793e514798c1a875509f27cdf6e13a0b993b1cd909b01a646d4c9dc0dae5d9d0"
+  },
+  "revision": "099d6d12f79fef11d7cce70d9d81cd0aa0da5a31340dd41b5c015b066c34df77"
+}
